@@ -1,1 +1,19 @@
+ <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>Solid App</title>
+    <meta name="theme-color" content="#070709" />
+    <meta name="description" content="Knckles — Elite Roblox gameplay engineer specializing in combat systems, multiplayer architecture, and immersive UI." />
+    <title>Knckles — Roblox Developer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
 
+    <script src="/src/index.tsx" type="module"></script>
+  </body>
+</html>
